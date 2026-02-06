@@ -1,8 +1,9 @@
 # ♟️ CheckersBot
-
 # Checkers vs AI
 
 A simple web-based Checkers game built with **Python** and **Streamlit**, where a human player competes against an AI powered by the **Minimax algorithm**.
+
+Working Demo : https://www.youtube.com/watch?v=vKD6A80Owa4
 
 ## 🚀 Features
 - Interactive 8×8 Checkers board
